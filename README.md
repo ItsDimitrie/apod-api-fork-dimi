@@ -18,7 +18,7 @@ A very large number of people use the instance of this API that NASA has set up.
 
 #### Content Related Issues
 No one watching this repository has anything to do with Astronomy Photo of the Day website, so we're unable to deal with issues directly related to their content. Please contact them directly.
-Testing 123 123 13s
+
 
 # Table of contents
 1. [Getting Started](#getting_started)
